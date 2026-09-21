@@ -168,37 +168,43 @@ I'm continuously improving my understanding of **software architecture, backend 
 
 ---
 
-#  GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shlelisa&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=60A5FA&text_color=CBD5E1&bg_color=00000000" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=shlelisa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"
+  height="180"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlelisa&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=CBD5E1&bg_color=00000000" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlelisa&layout=compact&hide_border=true&theme=transparent"
+  height="180"
+/>
 
 </div>
 
----
-
-# Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shlelisa&hide_border=true&background=00000000&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=64748B" />
+<img
+  src="https://streak-stats.demolab.com/?user=shlelisa&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
----
-
-# Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shlelisa&theme=github-compact&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
-
----
 
 #  Contribution Graph
 
