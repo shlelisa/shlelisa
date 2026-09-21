@@ -172,15 +172,7 @@ I'm continuously improving my understanding of **software architecture, backend 
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=shlelisa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlelisa&layout=compact&hide_border=true&theme=transparent"
-  height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=shlelisa" alt="Lelisa's GitHub Stats" />
 
 </div>
 
@@ -188,12 +180,12 @@ I'm continuously improving my understanding of **software architecture, backend 
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=shlelisa&theme=transparent&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com/?user=shlelisa" alt="GitHub Streak" />
 
 </div>
+
+
+
 
 ## 📈 Contribution Activity
 
@@ -206,11 +198,11 @@ I'm continuously improving my understanding of **software architecture, backend 
 
 </div>
 
-#  Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlelisa&bg_color=00000000&color=60A5FA&line=2563EB&point=93C5FD&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlelisa" alt="GitHub Activity Graph" />
 
 </div>
 
